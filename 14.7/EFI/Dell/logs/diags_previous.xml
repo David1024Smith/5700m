@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>679</LogNumber>
+    <LogTimeStamp>06/28/2025 12:25:09</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <ePSAFullVersion>4400.21</ePSAFullVersion>
+      <ePSAInvocationCount>18</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>DISPLAY_ONLY</ErrorCategory>
+      <ErrorMessage><![CDATA[Your system has shutdown unexpectedly 3 times in a row. OC level has been reset to default as a precaution.]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
