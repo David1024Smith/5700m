@@ -1,0 +1,7 @@
+cd "$HOME/Desktop/5700M/RTK-UHD-HDR-DisplayOverride" && \
+sudo mkdir -p "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b" && \
+sudo cp "DisplayVendorID-4a8b/DisplayProductID-1b1a" "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b/DisplayProductID-1b1a" && \
+sudo chown root:wheel "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b" "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b/DisplayProductID-1b1a" && \
+sudo chmod 755 "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b" && \
+sudo chmod 644 "/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4a8b/DisplayProductID-1b1a" && \
+echo "Installed RTK UHD HDR display override. Reboot macOS."

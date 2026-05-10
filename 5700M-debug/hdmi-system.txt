@@ -1,0 +1,72 @@
+Graphics/Displays:
+
+    AMD Radeon RX 5700M:
+
+      Chipset Model: AMD Radeon RX 5700M
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x16
+      VRAM (Total): 8 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x731f
+      Revision ID: 0x00c3
+      ROM Revision: BR60635.001
+      Metal: Supported
+      Displays:
+        Display:
+          Resolution: 3840 x 2160 (2160p/4K UHD 1 - Ultra High Definition)
+          UI Looks like: 1920 x 1080 @ 120.00Hz
+          Framebuffer Depth: 30-Bit Color (ARGB2101010)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+        RTK UHD HDR:
+          Resolution: 3840 x 2160 (2160p/4K UHD 1 - Ultra High Definition)
+          UI Looks like: 1920 x 1080 @ 60.00Hz
+          Framebuffer Depth: 30-Bit Color (ARGB2101010)
+          Display Serial Number: demoset-1 0 
+          Mirror: Off
+          Online: Yes
+          Rotation: 180
+
+Audio:
+
+    Devices:
+
+        RTK UHD HDR:
+
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: HDMI
+          Output Source: RTK UHD HDR
+
+        Built-in Input:
+
+          Default Input Device: Yes
+          Input Channels: 2
+          Manufacturer: Apple Inc.
+          Current SampleRate: 44100
+          Transport: Built-in
+          Input Source: Internal Microphone
+
+        Built-in Line Output:
+
+          Default Output Device: Yes
+          Default System Output Device: Yes
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Built-in
+          Output Source: Line Out
+
+        Built-in Headphone:
+
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Built-in
+          Output Source: Headphones
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>6938</integer>
+	<key>DisplayProductName</key>
+	<string>RTK UHD HDR</string>
+	<key>DisplayVendorID</key>
+	<integer>19083</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wBKixobAQEBASseAQS1AAB4P+6Ro1RMmSYPUFQhCADRwNHA0cCVAJBAgYCBQIHATdAAoPBwPoAwIDUAYWMhAAAaAAAA/ABSVEsgVUhEIEhEUgogAAAA/wBkZW1vc2V0LTEKIDAgAAAA/QAoPYeHPAEKICAgICAgARECA0fyTwMTBCIfbJBMWl9pYWsAAOIAwCMJfweDAQAAZQMMABAA4wXAAOYGBQFpaU/lDwAAAABn2F3EAXgAAGgaAAABACg95lZeAKCgoClQMCA1AGFjIQAAGgI6gBhxOC1AWCxFAGFjIQAAHgAAAAAAAAAAAAAAAAAAAAAAAAAA6Q==
+	</data>
+	<key>scale-resolutions</key>
+	<array>
+		<data>AAAeAAAAEOAAAAAJACAAAA==</data>
+		<data>AAAeAAAAEOA=</data>
+		<data>AAAUAAAAC0AAAAAJACAAAA==</data>
+		<data>AAAUAAAAC0A=</data>
+		<data>AAAPAAAACHA=</data>
+	</array>
+</dict>
+</plist>

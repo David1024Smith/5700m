@@ -1905,7 +1905,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>msgbuf=1048576 agdpmod=pikera swd_panic=1 -iosd3v3 applbkl=3 -dbgenhdbg -brcmfxwowl alcverbs=1 -lilubetaall revpatch=sbvmm,auto</string>
+                    <string>agdpmod=pikera applbkl=3 alcverbs=1 -lilubetaall revpatch=sbvmm,auto</string>
                     <key>csr-active-config</key>
                     <data>7w8AAA==</data>
                     <key>prev-lang:kbd</key>
